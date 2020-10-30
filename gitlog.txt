@@ -1,4 +1,10 @@
-commit aeb12a977af74d023ee5897660f7db365e3441e3 (HEAD -> main, origin/main, origin/feature, feature)
+commit d9f3a8ea9803f889d20be779705764f96c2871e2 (HEAD -> main, origin/main)
+Author: maini <philip.mattsson@iths.se>
+Date:   Fri Oct 30 10:56:52 2020 +0100
+
+    Skapade gitlog-fil
+
+commit aeb12a977af74d023ee5897660f7db365e3441e3 (origin/feature, feature)
 Author: maini <philip.mattsson@iths.se>
 Date:   Fri Oct 30 10:39:13 2020 +0100
 
@@ -16,7 +22,4 @@ Date:   Fri Oct 30 10:30:59 2020 +0100
 
     Skapade en .gitignore
 
-commit 80039eb1f686f86589b9a64d6d3eebdf2ce1c15e
-Author: maini <philip.mattsson@iths.se>
-Date:   Fri Oct 30 10:23:11 2020 +0100
 
