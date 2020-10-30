@@ -1,0 +1,16 @@
+Author: maini <philip.mattsson@iths.se>
+Date:   Fri Oct 30 10:34:04 2020 +0100
+
+    Uppdaterad .gitignore
+
+commit 1101953bf8cbb64d6750850eb2f9c974253eb3ac
+Author: maini <philip.mattsson@iths.se>
+Date:   Fri Oct 30 10:30:59 2020 +0100
+
+    Skapade en .gitignore
+
+commit 80039eb1f686f86589b9a64d6d3eebdf2ce1c15e
+Author: maini <philip.mattsson@iths.se>
+Date:   Fri Oct 30 10:23:11 2020 +0100
+
+    first commit
