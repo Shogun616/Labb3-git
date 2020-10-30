@@ -1,4 +1,10 @@
-commit d9f3a8ea9803f889d20be779705764f96c2871e2 (HEAD -> main, origin/main)
+commit 60d8ff9c39773b4664614c5660323c4f6e853923
+Author: maini <philip.mattsson@iths.se>
+Date:   Fri Oct 30 11:01:08 2020 +0100
+
+    Uppdaterade gitlog-filen
+
+commit d9f3a8ea9803f889d20be779705764f96c2871e2
 Author: maini <philip.mattsson@iths.se>
 Date:   Fri Oct 30 10:56:52 2020 +0100
 
@@ -22,4 +28,9 @@ Date:   Fri Oct 30 10:30:59 2020 +0100
 
     Skapade en .gitignore
 
+commit 80039eb1f686f86589b9a64d6d3eebdf2ce1c15e
+Author: maini <philip.mattsson@iths.se>
+Date:   Fri Oct 30 10:23:11 2020 +0100
+
+    first commit
 
