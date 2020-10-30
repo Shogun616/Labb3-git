@@ -1,3 +1,10 @@
+commit aeb12a977af74d023ee5897660f7db365e3441e3 (HEAD -> main, origin/main, origin/feature, feature)
+Author: maini <philip.mattsson@iths.se>
+Date:   Fri Oct 30 10:39:13 2020 +0100
+
+    Skapade gitlot-fil
+
+commit 0ab8d018771170305ae5bd9d4f9bd87cf1329544 (txt.fil)
 Author: maini <philip.mattsson@iths.se>
 Date:   Fri Oct 30 10:34:04 2020 +0100
 
@@ -13,4 +20,3 @@ commit 80039eb1f686f86589b9a64d6d3eebdf2ce1c15e
 Author: maini <philip.mattsson@iths.se>
 Date:   Fri Oct 30 10:23:11 2020 +0100
 
-    first commit
