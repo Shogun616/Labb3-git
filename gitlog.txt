@@ -1,3 +1,45 @@
+commit c82de6a81749d3fa5e68c589a2551b260f9e2ba4 (HEAD -> main, origin/main)
+Author: maini <philip.mattsson@iths.se>
+Date:   Thu Nov 5 10:39:52 2020 +0100
+
+    .gitignore
+
+commit 8e38254b5f605400c9ff5dd8781a9d212ba0c7c2
+Author: maini <philip.mattsson@iths.se>
+Date:   Fri Oct 30 11:13:27 2020 +0100
+
+    Uppdaterade gitlog.txt
+
+commit 274dc46796f5bd9712f57775cf358cf20b34bc93
+Author: maini <philip.mattsson@iths.se>
+Date:   Fri Oct 30 11:10:44 2020 +0100
+
+    Uppdaterade .gitignore
+
+commit 60d8ff9c39773b4664614c5660323c4f6e853923
+Author: maini <philip.mattsson@iths.se>
+Date:   Fri Oct 30 11:01:08 2020 +0100
+
+    Uppdaterade gitlog-filen
+:...skipping...
+commit c82de6a81749d3fa5e68c589a2551b260f9e2ba4 (HEAD -> main, origin/main)
+Author: maini <philip.mattsson@iths.se>
+Date:   Thu Nov 5 10:39:52 2020 +0100
+
+    .gitignore
+
+commit 8e38254b5f605400c9ff5dd8781a9d212ba0c7c2
+Author: maini <philip.mattsson@iths.se>
+Date:   Fri Oct 30 11:13:27 2020 +0100
+
+    Uppdaterade gitlog.txt
+
+commit 274dc46796f5bd9712f57775cf358cf20b34bc93
+Author: maini <philip.mattsson@iths.se>
+Date:   Fri Oct 30 11:10:44 2020 +0100
+
+    Uppdaterade .gitignore
+
 commit 60d8ff9c39773b4664614c5660323c4f6e853923
 Author: maini <philip.mattsson@iths.se>
 Date:   Fri Oct 30 11:01:08 2020 +0100
@@ -33,4 +75,3 @@ Author: maini <philip.mattsson@iths.se>
 Date:   Fri Oct 30 10:23:11 2020 +0100
 
     first commit
-
